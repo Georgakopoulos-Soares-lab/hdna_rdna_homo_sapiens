@@ -24,6 +24,20 @@ The EDA was conducted in the following parts:
 - Generalize the results to primate genomes.
 
 
+# Updated Analysis
+
+A new directory has been added with the new notebooks under the
+
+```
+notebooks/update
+```
+
+- EnrichmentRecombination contains the ChipSeq analysis on PRMD9B
+- The Alu_SVA notebook contains the analysis with STR and G4 composition of H-DNA and the
+distribution of H-DNA within transposable elements.
+- Finally, the primatesHDNA notebook contains the updated figures on the diploid assemblies.
+
+
 For any questions about the extraction or the analysis, please send your email to
 
 - Nikol Chantzi (nmc6088@psu.edu)
