@@ -1,0 +1,4 @@
+outdir: 'mirrors_t2t_primates_new_new'
+indir: '/storage/group/izg5139/default/nicole/transfer_mirror/primates_new/fasta'
+min_arm_length: 10
+max_spacer_length: 7

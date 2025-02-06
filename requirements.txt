@@ -1,0 +1,14 @@
+# general
+
+pathlib 
+argparse
+
+# bioinformatics andd data science
+
+snakemake
+numpy
+biopython
+pandas
+matplotlib
+scipy
+seaborn
