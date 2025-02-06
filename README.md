@@ -2,7 +2,7 @@
 
 # Introduction
 
-This repository is part of the H-DNA paper by Georgakopoulos-Soares lab.
+This repository is part of the H-DNA paper `Ribosomal DNA arrays are the most H-DNA rich element in the human genome` by Georgakopoulos-Soares lab.
 
 ```
 ├── data
