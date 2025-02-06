@@ -1,4 +1,4 @@
-# H-DNA & Mirror Repeats in Human Genome
+# Ribosomal DNA arrays are the most H-DNA rich element in the human genome
 
 # Introduction
 
