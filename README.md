@@ -59,7 +59,7 @@ distribution of H-DNA within transposable elements.
 
 For any questions about the code, setup, extraction or the analysis, please send your email to
 
+# Contact Information
+
 - Nikol Chantzi (nmc6088@psu.edu)
 - Ilias Georgakopoulos-Soares (izg5139@psu.edu)
-
-Thank you!
