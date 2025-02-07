@@ -36,7 +36,7 @@ Then, the H-DNA were extracted as a subset of mirror repeats abiding to the foll
 
 The non-B gfa tool is accessible on the following github link:
 
-!(non-B_gfa)[https://github.com/abcsFrederick/non-B_gfa]
+![non-B_gfa](https://github.com/abcsFrederick/non-B_gfa)
 
 You will need to have this installed, in order to use the snakemake extraction pipeline.
 
