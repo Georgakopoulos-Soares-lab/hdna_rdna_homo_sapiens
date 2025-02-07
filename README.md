@@ -57,9 +57,9 @@ The analysis was conducted in the following parts:
 distribution of H-DNA within transposable elements.
 - Finally, the primatesHDNA notebook contains the updated figures on the diploid assemblies.
 
-For any questions about the code, setup, extraction or the analysis, please send your email to
-
 # Contact Information
+
+For any questions about the code, setup, extraction or the analysis, please send your email to
 
 - Nikol Chantzi (nmc6088@psu.edu)
 - Ilias Georgakopoulos-Soares (izg5139@psu.edu)
