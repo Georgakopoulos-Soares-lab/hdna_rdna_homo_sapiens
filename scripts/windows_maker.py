@@ -5,11 +5,6 @@ from pathlib import Path
 import numpy as np
 import pandas as pd
 import logging
-from pybedtools.featurefuncs import midpoint
-
-def create_windows(df: pd.DataFrame):
-    # TODO
-    pass
 
 @dataclass
 class WindowMaker:
